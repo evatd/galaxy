@@ -1,4 +1,4 @@
-# ajs-4.1-revealing-module-pattern
+# galaxy
 A 'starfield' visualisation in p5.js
 
 ### About
