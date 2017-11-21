@@ -1,4 +1,4 @@
-# galaxy
+# Galaxy
 A 'starfield' visualisation in p5.js
 
 ### About
