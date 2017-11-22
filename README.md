@@ -10,3 +10,7 @@ This builds upon Shiffman's visualisation (The Coding Train) - I added the zoom 
 #### Demo
 
 See it [here](https://evatd.github.io/galaxy/)
+
+### How to run it
+
+Open the index.html file.
